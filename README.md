@@ -1,7 +1,9 @@
-InfoWallpaper
-=============
+Info Wallpaper
+==============
 
-Live wallpaper app for Android
+Live wallpaper app for Android.
+
+Can be found at [Google Play](https://play.google.com/store/apps/details?id=com.andreashedin.infowallpaper).
 
 It shows time, date, battery status, currently playing song, weather and much more.
 It was my first Android project and therefore contains some bugs and problems. 
