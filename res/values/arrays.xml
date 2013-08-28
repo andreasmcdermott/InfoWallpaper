@@ -1,0 +1,243 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string-array name="weekdays">
+	    <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="number_endings">
+        <item>st</item>
+        <item>nd</item>
+        <item>rd</item>
+        <item>th</item>
+    </string-array>
+    <string-array name="presetDisplays">
+    	<item>Date: mm/dd/yyyy</item>
+    	<item>Date: yyyy-mm-dd</item>
+    	<item>Date: dd/mm/yyyy</item>
+    	<item>Year (four digits)</item>
+    	<item>Year (two digits)</item>
+    	<item>Month</item>
+    	<item>Month (full name)</item>
+    	<item>Month (short name)</item>
+    	<item>Day</item>
+    	<item>Day (with suffix)</item>
+    	<item>Weekday (full name)</item>
+    	<item>Weekday (short name)</item>
+    	<item>Week</item>
+    	<item>Time: hh:mm (24h)</item>
+    	<item>Time: hh:mm (12h)</item>
+    	<item>Hour (24h)</item>
+    	<item>Hour (12h)</item>
+    	<item>AM/PM</item>
+    	<item>Minutes</item>
+    	<item>Battery status</item>
+    	<item>Battery temperature C</item>
+    	<item>Battery temperature F</item>
+    	<item>Signal Strength: GSM</item>
+    	<item>Unread Text Messages</item>
+    	<item>Music: artist - song</item>
+    	<item>Artist</item>
+    	<item>Album</item>
+    	<item>Song</item>
+    	<item>Weather: current weather (text) and temperature</item>
+    	<item>Weather: current weather (text)</item>
+    	<item>Weather: current weather (icon)</item>
+    	<item>Weather: current temperature</item>
+    	<item>Weather: high temperature today</item>
+    	<item>Weather: low temperature today</item>
+    	<item>Weather: weather tomorrow (text)</item>
+    	<item>Weather: weather tomorrow (icon)</item>
+    	<item>Weather: high temperature tomorrow</item>
+    	<item>Weather: low temperature tomorrow</item>
+    	<item>Weather: weather day after tomorrow (text)</item>
+    	<item>Weather: weather day after tomorrow (icon)</item>
+    	<item>Weather: high temperature day after tomorrow</item>
+    	<item>Weather: low temperature day after tomorrow</item>
+    	<item>Weather: weather two days after tomorrow (text)</item>
+    	<item>Weather: weather two days after tomorrow (icon)</item>
+    	<item>Weather: high temperature two days after tomorrow</item>
+    	<item>Weather: low temperature two days after tomorrow</item>
+    	<item>Weather: location</item>
+    </string-array>
+    <string-array name="presetValues">
+    	<item>#MM/#dd/#yyyy</item>
+    	<item>#yyyy-#MM-#dd</item>
+    	<item>#dd/#MM/#yyyy</item>
+    	<item>#yyyy</item>
+    	<item>#yy</item>
+    	<item>#MM</item>
+    	<item>#MMMM</item>
+    	<item>#MMM</item>
+    	<item>#dd</item>
+    	<item>#dd+</item>
+    	<item>#dddd</item>
+    	<item>#ddd</item>
+    	<item>#ww</item>
+    	<item>#HH:#mm</item>
+    	<item>#hh:#mm #ampm</item>
+    	<item>#HH</item>
+    	<item>#hh</item>
+    	<item>#ampm</item>
+    	<item>#mm</item>
+    	<item>#bb</item>
+    	<item>#btc</item>
+    	<item>#btf</item>
+    	<item>#gsm</item>
+    	<item>#sms</item>
+    	<item>#aa - #ss</item>
+    	<item>#aa</item>
+    	<item>#ll</item>
+    	<item>#ss</item>
+    	<item>#wcc#n#wct</item>
+    	<item>#wcc</item>
+    	<item>#wcci</item>
+    	<item>#wct</item>
+    	<item>#wh+0</item>
+    	<item>#wl+0</item>
+    	<item>#wc+1</item>
+    	<item>#wci+1</item>
+    	<item>#wh+1</item>
+    	<item>#wl+1</item>
+    	<item>#wc+2</item>
+    	<item>#wci+2</item>
+    	<item>#wh+2</item>
+    	<item>#wl+2</item>
+    	<item>#wc+3</item>
+    	<item>#wci+3</item>
+    	<item>#wh+3</item>
+    	<item>#wl+3</item>
+    	<item>#wloc</item>
+    </string-array>
+    <string-array name="fontDisplays">
+		<item>Android Default</item>
+        <item>Bebas</item>
+        <item>Black Jack</item>
+        <item>Capture It</item>
+        <item>Chunck Five</item>
+        <item>Daniel</item>
+        <item>Deftone</item>
+        <item>Flux Architect</item>
+        <item>Good Dog</item>
+        <item>Impact Label Reversed</item>
+        <item>Journal</item>
+        <item>Komika Axis</item>
+        <item>Lobster</item>
+        <item>Marketing Script</item>
+        <item>NeoRetroDraw</item>
+        <item>Note This</item>
+        <item>Quicksand</item>
+        <item>Rabiohead</item>
+        <item>Sansation</item>
+        <item>Walkway Black</item>
+        <item>Walkway Bold</item>
+        <item>Windsong</item>
+        <item>Yanone Kaffeesatz</item>
+	</string-array>
+	<string-array name="fontValues">
+		<item></item>
+        <item>bebas.ttf</item>
+        <item>black_jack.ttf</item>
+        <item>Capture_it.ttf</item>
+        <item>Chunkfive.otf</item>
+        <item>daniel.ttf</item>
+        <item>DEFTONE.ttf</item>
+        <item>Flux_Architect_Regular.ttf</item>
+        <item>GoodDog.otf</item>
+        <item>Impact_Label_Reversed.ttf</item>
+        <item>journal.ttf</item>
+        <item>KOMIKAX_.ttf</item>
+        <item>Lobster_1.3.otf</item>
+        <item>MarketingScript.ttf</item>
+        <item>neoretrodraw.ttf</item>
+        <item>Note_this.ttf</item>
+        <item>Quicksand_Book.otf</item>
+        <item>rabiohead.ttf</item>
+        <item>Sansation_Regular.ttf</item>
+        <item>Walkway_Black.ttf</item>
+        <item>Walkway_Bold.ttf</item>
+        <item>Windsong.ttf</item>
+        <item>YanoneKaffeesatz-Regular.otf</item>
+	</string-array>
+	<string-array name="rotationDisplays">
+		<item>No rotation</item>
+		<item>Vertical right</item>
+		<item>Vertical left</item>
+	</string-array>
+	<string-array name="rotationValues">
+		<item>0</item>
+		<item>270</item>
+		<item>90</item>
+	</string-array>
+	<string-array name="textCaseDisplays">
+		<item>None</item>
+		<item>Upper case</item>
+		<item>Lower case</item>
+	</string-array>
+	<string-array name="textCaseValues">
+		<item>none</item>
+		<item>upper</item>
+		<item>lower</item>
+	</string-array>
+	<string-array name="iconsetDisplays">
+		<item>Dark icons</item>
+		<item>Light icons</item>
+	</string-array>
+	<string-array name="iconsetValues">
+		<item>dark_noframe_%s.png</item>
+		<item>light_noframe_%s.png</item>
+	</string-array>
+	<string-array name="numbers1">
+		<item>Zero</item>
+		<item>One</item>
+		<item>Two</item>
+		<item>Three</item>
+		<item>Four</item>
+		<item>Five</item>
+		<item>Six</item>
+		<item>Seven</item>
+		<item>Eight</item>
+		<item>Nine</item>
+		<item>Ten</item>
+		<item>Eleven</item>
+		<item>Twelve</item>
+		<item>Thirteen</item>
+		<item>Fourteen</item>
+		<item>Fifteen</item>
+		<item>Sixteen</item>
+		<item>Seventeen</item>
+		<item>Eighteen</item>
+		<item>Nineteen</item>
+	</string-array>
+	<string-array name="numbers2">
+		<item>Twenty</item>
+		<item>Thirty</item>
+		<item>Fourty</item>
+		<item>Fifty</item>
+		<item>Sixty</item>
+		<item>Seventy</item>
+		<item>Eighty</item>
+		<item>Ninety</item>
+	</string-array>
+	<string-array name="numbers3">
+		<item>hundred</item>
+		<item>thousand</item>
+	</string-array>
+</resources>

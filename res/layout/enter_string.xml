@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+	android:id="@+id/EnterStringDialog" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" 
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<EditText 
+		android:id="@+id/stringInput" 
+		android:singleLine="true"
+		android:layout_alignParentTop="true" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content" 
+	/>
+	<Button 
+		android:text="@string/doneTitle" 
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentBottom="true" 
+		android:id="@+id/enterStringDone" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+	</Button>
+	<Button 
+		android:text="@string/cancelTitle" 
+		android:layout_alignParentRight="true"
+		android:layout_alignParentBottom="true" 
+		android:id="@+id/enterStringCancel" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content">
+	</Button>
+</RelativeLayout>

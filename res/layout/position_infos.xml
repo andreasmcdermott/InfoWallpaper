@@ -1,0 +1,26 @@
+<RelativeLayout 
+	android:id="@+id/RelativeLayout01" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" 
+	android:minHeight="480dp"
+	android:minWidth="340dp"   
+    android:layout_marginLeft="0dp" 
+    android:layout_marginRight="0dp"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<Button 
+		android:layout_width="wrap_content" 
+		android:layout_alignParentBottom="true" 
+		android:id="@+id/savePositionsButton" 
+		android:text="@string/saveTitle" 
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true">
+	</Button>
+	<Button 
+		android:layout_width="wrap_content" 
+		android:id="@+id/cancelPositionsButtons" 
+		android:text="@string/cancelTitle" 
+		android:layout_height="wrap_content" 
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true">
+	</Button>
+</RelativeLayout>

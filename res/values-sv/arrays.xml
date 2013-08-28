@@ -1,0 +1,130 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string-array name="weekdays">
+		<item>Söndag</item>
+        <item>Måndag</item>
+        <item>Tisdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lördag</item>
+    </string-array>
+    <string-array name="month">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mars</item>
+        <item>April</item>
+        <item>Maj</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augusti</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="number_endings">
+        <item>a</item>
+        <item>a</item>
+        <item>e</item>
+        <item>e</item>
+    </string-array>
+    <string-array name="presetDisplays">
+    	<item>Datum: mm/dd/åååå</item>
+    	<item>Datum: åååå-mm-dd</item>
+    	<item>Datum: dd/mm/åååå</item>
+    	<item>År (fyra siffor)</item>
+    	<item>År (två siffror)</item>
+    	<item>Månad</item>
+    	<item>Månad (fullt namn)</item>
+    	<item>Månad (kort namn)</item>
+    	<item>Dag</item>
+    	<item>Dag (med suffix)</item>
+    	<item>Veckodag (fullt namn)</item>
+    	<item>Veckodag (kort namn)</item>
+    	<item>Vecka</item>
+    	<item>Tid: hh:mm (24h)</item>
+    	<item>Tid: hh:mm (12h)</item>
+    	<item>Timme (24h)</item>
+    	<item>Timme (12h)</item>
+    	<item>AM/PM</item>
+    	<item>Minuter</item>
+    	<item>Batteristatus</item>
+    	<item>Batteriets temperatur i C</item>
+    	<item>Batteriets temperatur i F</item>
+    	<item>Signalstyrka: GSM</item>
+    	<item>Olästa SMS</item>
+    	<item>Musik: artist - låt</item>
+    	<item>Artist</item>
+    	<item>Album</item>
+    	<item>Låt</item>
+    	<item>Väder: väder (text) och temperatur just nu</item>
+    	<item>Väder: just nu (text)</item>
+    	<item>Väder: just nu (ikon)</item>
+    	<item>Väder: temperatur just nu</item>
+    	<item>Väder: högsta temperatur idag</item>
+    	<item>Väder: lägsta temperatur idag</item>
+    	<item>Väder: imorgon (text)</item>
+    	<item>Väder: imorgon (ikon)</item>
+    	<item>Väder: högsta temperatur imorgon</item>
+    	<item>Väder: lägsta temperatur imorgon</item>
+    	<item>Väder: i övermorgon (text)</item>
+    	<item>Väder: i övermorgon (ikon)</item>
+    	<item>Väder: högsta temperatur i övermorgon</item>
+    	<item>Väder: lägsta temperatur i övermorgon</item>
+    	<item>Väder: dagen efter övermorgon (text)</item>
+    	<item>Väder: dagen efter övermorgon (ikon)</item>
+    	<item>Väder: högsta temperatur dagen efter övermorgon</item>
+    	<item>Väder: lägsta temperatur dagen efter övermorgon</item>
+    	<item>Väder: plats</item>
+    </string-array>
+    <string-array name="textCaseDisplays">
+		<item>Ingen</item>
+		<item>Versaler</item>
+		<item>Gemener</item>
+	</string-array>
+	<string-array name="rotationDisplays">
+		<item>Ingen rotering</item>
+		<item>Vertikal höger</item>
+		<item>Vertikal vänster</item>
+	</string-array>
+	<string-array name="iconsetDisplays">
+		<item>Mörk utan ram</item>
+		<item>Ljus utan ram</item>
+	</string-array>
+	<string-array name="numbers1">
+		<item>Zero</item>
+		<item>Ett</item>
+		<item>Två</item>
+		<item>Tre</item>
+		<item>Fyra</item>
+		<item>Fem</item>
+		<item>Sex</item>
+		<item>Sju</item>
+		<item>Åtta</item>
+		<item>Nio</item>
+		<item>Tio</item>
+		<item>Elva</item>
+		<item>Tolv</item>
+		<item>Tretton</item>
+		<item>Fjorton</item>
+		<item>Femton</item>
+		<item>Sexton</item>
+		<item>Sjutton</item>
+		<item>Arton</item>
+		<item>Nitton</item>
+	</string-array>
+	<string-array name="numbers2">
+		<item>Tjugo</item>
+		<item>Trettio</item>
+		<item>Fyrtio</item>
+		<item>Femtio</item>
+		<item>Sextio</item>
+		<item>Sjuttio</item>
+		<item>Åttio</item>
+		<item>Nittio</item>
+	</string-array>
+	<string-array name="numbers3">
+		<item>hundra</item>
+		<item>tusen</item>
+	</string-array>
+</resources>
